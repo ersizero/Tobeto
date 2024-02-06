@@ -1,4 +1,4 @@
-package Ornekler;
+/* package Ornekler;
 
 public class Ornek6_strings {
     public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class Ornek6_strings {
         }
         /* Farklı isimlerle tanımlasak bile değerleri aynı olur. Doğru bir kullanım değildir.
         Aynı değerleri farklı şekilde tanımlamak istiyorsak new ile tanımlamamız gerekir.
-        örnek: bir öğretmenin 2 tane Ozan isminde öğrencisi var, hangi Ozan'ın notu kaç? */
+        örnek: bir öğretmenin 2 tane Ozan isminde öğrencisi var, hangi Ozan'ın notu kaç?
 
         String s3 = new String("Ozan");
         String s4 = new String("Ozan");
@@ -17,8 +17,8 @@ public class Ornek6_strings {
             System.out.println("s3 ve s4 eşittir");
         }
         /* s3 ve s4 değerleri aynı gözükse de farklı tanımlanmış olması
-        bu 2 ayrı Ozan'ı unique yapar */
-        //***indexler 0'dan başlar***//
+        bu 2 ayrı Ozan'ı unique yapar
+        //***indexler 0'dan başlar***
         s3.length(); // s3'ün karakter sayısını alır.
         s3.charAt(3); // Parantez içine yazılan index no'lu char değerini alır.
         s3.charAt(s3.length()-1); // Gibi kullanılabilir. Sondaki harfi alır.
@@ -30,3 +30,4 @@ public class Ornek6_strings {
         s3.equalsIgnoreCase(s4); // büyük-küçük harf duyarlılığını ortadan kaldırarak kontrol eder.
     }
 }
+*/
